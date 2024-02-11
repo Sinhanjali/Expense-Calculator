@@ -1,11 +1,11 @@
 import './App.css';
-import Header from './components/Header';
-import Balance from './components/Balance';
-import Incomeexpenses from './components/Incomeexpenses';
-import Transaction from './components/Transaction';
-import TransactionList from './components/TransactionList';
-import AddTransaction from './components/AddTransaction';
-import {GlobalProvider } from './context/GlobalState';
+import Header from './Header';
+import Balance from './Balance';
+import Incomeexpenses from './Incomeexpenses';
+import Transaction from './Transaction';
+import TransactionList from './TransactionList';
+import AddTransaction from './AddTransaction';
+import {GlobalProvider } from './GlobalState';
 
 function App() {
   return (
